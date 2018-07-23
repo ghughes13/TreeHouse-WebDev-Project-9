@@ -1,0 +1,7 @@
+1. Setup Files
+2. Create mobile first design 320px
+3. Create Tablet design 768px
+4. Create Desktop Design 1024px
+5. Fix display issues
+6. add JS functionality
+7.

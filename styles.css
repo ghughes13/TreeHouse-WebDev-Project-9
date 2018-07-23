@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background:	#6F76BA;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header img {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.rightinfo {
+  display: flex;
+  flex-direction: row;
+  flex: 2;
+}
+
+nav {
+  background: #4C4C73;
+}
+
+nav img {
+  max-height: 100px;
+  max-width: 100px;
+}
+
+@media (min-width: ){
+
+}
+
+@media (min-width: ){
+
+}
